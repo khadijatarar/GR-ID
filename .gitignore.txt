@@ -1,0 +1,13 @@
+# Flutter
+mobile_app/build/
+mobile_app/.dart_tool/
+mobile_app/android/.gradle/
+mobile_app/android/local.properties
+
+# Web
+Web_App/node_modules/
+Web_App/dist/
+
+# Common
+*.log
+.env
