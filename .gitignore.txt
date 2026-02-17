@@ -1,14 +1,12 @@
 # Flutter
 mobile_app/build/
 mobile_app/.dart_tool/
-
-# Android
 mobile_app/android/.gradle/
 mobile_app/android/local.properties
 
-# Web (Angular / React)
-web_app/node_modules/
-web_app/dist/
+# Web
+Web_App/node_modules/
+Web_App/dist/
 
 # Common
 *.log
