@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 5
+names: ['1509_sela', '1509_steam', 'kainat', 'super purana', 'supri']
+
+roboflow:
+  workspace: grid-if4fl
+  project: gr-id
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/grid-if4fl/gr-id/dataset/1
